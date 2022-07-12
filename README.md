@@ -1,3 +1,3 @@
-# welcome to my portfolio
+# welcome to my acc
 
-Este es mi <b>portafolio personal</b>, pero si lo deseas puedes utilizarlo para tu currículum o para presentarte. Este portfolio usa bootstrap, algunos plugins y poco más. He dejado comentarios dando crédito a los autores y algunas fuentes para que te hagas mejor idea. <i>Enjoy it</i>
+¡Welcome to my <b>portfolio</b>!, here i share some of my projects, works, collaborations and so on... If I use libraries, plugins or other services, i will comment on the respective authors in the code. I do not study any degree related to computer or programming, everything is self-taught and for fun. <i>Enjoy it</i>
