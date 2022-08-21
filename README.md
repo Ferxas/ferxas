@@ -1,16 +1,59 @@
-### Hi there 👋
+## WELCOME <3
 
-<!--
-**Ferxas/ferxas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hey! 💕💗💖💝
+I'm Ferxas here i will keep sharing some of my projects, works, collaborations and so on... I do not study any degree related to computer or programming, everything is self-taught and for fun. Enjoy it!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I work specially on PHP, nodeJS, creating discord bots or videogames and sometimes C++ projects.
+
+- I know something about batch ([the thingy of cmd called a language](https://www.quora.com/Is-batch-DOS-considered-a-high-level-programming-language-when-used-in-a-program-not-single-line)) and bash ([the terminal linux and those stuffs](https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f)), HTML, CSS, Java, Javascript, C++, PHP, SQL, NodeJS, Python (and u can check my projects using them).
+
+- I'm reading and practicing about cibersecurity and computer hardware systems to open source systems projects [🔑 => 📁].
+
+- If you're interested on me, u can contact me with my e-mail [here](fernandomadafaka@gmail.com) or [here](fernanstack@gmail.com), discord dm (Check out my Discord: Ferxas#3861) or [![my links](https://img.shields.io/website?label=my%20links:%20allmylinks.com/ferxas&style=for-the-badge&url=https://nekesweb.cf)](https://allmylinks.com/ferxas)
+
+- I'm also an illustrator and sometimes animator.
+
+<img src="https://media3.giphy.com/media/yA2rfSt5INLgZ2AexS/giphy.gif?cid=790b7611f0a24e2932fb9a279a7bf7af1ea72d89ca72bbe1&rid=giphy.gif" alt="MDN">
+<br>
+<br>
+<br>
+<br>
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=ferxas&label=Views" alt="Visitors"></div>
+
+<br>
+<br>
+<br>
+<br>
+
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" title="C++"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Batch"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" title="Apache"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" title="SQLite"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" title="MySQL"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" title="HTML"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" title="CSS"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="Linux"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="NPM"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original-wordmark.svg" title="DiscordJS"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-line-wordmark.svg" title="Raspberry PI"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title="Java"></a>
+<a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="Java"></a>
+
+
+<br>
+<br>
+
+![ferxas-stats](https://github-readme-stats.vercel.app/api?username=ferxas&show_icons=true&theme=dark "Stats")
+
+[![stack-overflow-acc](https://stackoverflow.com/users/flair/18688781.png?theme=dark)](https://stackoverflow.com/users/18688781/ferxas)
+
+![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferxas&layout=compact&theme=dark "Languages")
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1DX0FZ)
+
