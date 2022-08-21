@@ -6,7 +6,7 @@ I'm Ferxas here i will keep sharing some of my projects, works, collaborations a
 
 - I work specially on PHP, nodeJS, creating discord bots or videogames and sometimes C++ projects.
 
-- I know something about batch ([the thingy of cmd called a language](https://www.quora.com/Is-batch-DOS-considered-a-high-level-programming-language-when-used-in-a-program-not-single-line)) and bash ([the terminal linux and those stuffs](https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f)), HTML, CSS, Java, Javascript, C++, PHP, SQL, NodeJS, Python (and u can check my projects using them).
+- I know something about batch ([that weird thing from cmd](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490869(v=technet.10)?redirectedfrom=MSDN)) and bash ([the terminal linux and those stuffs](https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f)), HTML, CSS, Java, Javascript, C++, PHP, SQL, NodeJS, Python (and u can check my projects using them).
 
 - I'm reading and practicing about cibersecurity and computer hardware systems to open source systems projects [🔑 => 📁].
 
