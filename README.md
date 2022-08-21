@@ -4,28 +4,23 @@
 I'm Ferxas here i will keep sharing some of my projects, works, collaborations and so on... I do not study any degree related to computer or programming, everything is self-taught and for fun. Enjoy it!
 
 
-- I work specially on PHP, nodeJS, creating discord bots or videogames and sometimes C++ projects.
+💻 I work specially on PHP, nodeJS, creating discord bots or videogames and sometimes C++ projects.
 
-- I know something about batch ([that weird thing from cmd](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490869(v=technet.10)?redirectedfrom=MSDN)) and bash ([the terminal linux and those stuffs](https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f)), HTML, CSS, Java, Javascript, C++, PHP, SQL, NodeJS, Python (and u can check my projects using them).
+💬 I know something about batch ([that weird thing from cmd](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490869(v=technet.10)?redirectedfrom=MSDN)) and bash ([the terminal linux and those stuffs](https://www.gnu.org/software/bash/manual/bash.html#What-is-Bash_003f)), HTML, CSS, Java, Javascript, C++, PHP, SQL, NodeJS, Python (and u can check my projects using them).
 
-- I'm reading and practicing about cibersecurity and computer hardware systems to open source systems projects [🔑 => 📁].
+📖 I'm reading and practicing about cibersecurity and computer hardware systems to open source systems projects [🔑 => 📁].
 
-- If you're interested on me, u can contact me with my e-mail [here](fernandomadafaka@gmail.com) or [here](fernanstack@gmail.com), discord dm (Check out my Discord: Ferxas#3861) or [![my links](https://img.shields.io/website?label=my%20links:%20allmylinks.com/ferxas&style=for-the-badge&url=https://nekesweb.cf)](https://allmylinks.com/ferxas)
+📫 You can reach me on:
+discord dm (Check out my Discord: Ferxas#3861) or    [![my links](https://img.shields.io/website?label=my%20links:%20allmylinks.com/ferxas&style=for-the-badge&url=https://nekesweb.cf)](https://allmylinks.com/ferxas)
 
-- I'm also an illustrator and sometimes animator.
+🖌 I'm also an illustrator and sometimes animator.
 
-<img src="https://media3.giphy.com/media/yA2rfSt5INLgZ2AexS/giphy.gif?cid=790b7611f0a24e2932fb9a279a7bf7af1ea72d89ca72bbe1&rid=giphy.gif" alt="MDN">
-<br>
-<br>
+<img src="https://media3.giphy.com/media/yA2rfSt5INLgZ2AexS/giphy.gif?cid=790b7611f0a24e2932fb9a279a7bf7af1ea72d89ca72bbe1&rid=giphy.gif" alt="MDN"> 
 <br>
 <br>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=ferxas&label=Views" alt="Visitors"></div>
-
-<br>
-<br>
-<br>
-<br>
+<h3 align="center"><b>⚔ SOME OF MY SKILLS ⚔</b></h3>
+<br> <br>
 
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg" title="C++"></a>
 <a href="#"><img class="img" style="width: 8%; height: 8%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" title="Batch"></a>
@@ -51,9 +46,12 @@ I'm Ferxas here i will keep sharing some of my projects, works, collaborations a
 
 ![ferxas-stats](https://github-readme-stats.vercel.app/api?username=ferxas&show_icons=true&theme=dark "Stats")
 
-[![stack-overflow-acc](https://stackoverflow.com/users/flair/18688781.png?theme=dark)](https://stackoverflow.com/users/18688781/ferxas)
+♨ StackOverflow <br> <br>
+[![stack-overflow-acc](https://stackoverflow.com/users/flair/18688781.png?theme=dark)](https://stackoverflow.com/users/18688781/ferxas) &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=ferxas&label=Views" alt="Visitors">
 
+<b>💹 Most used</b> <br> <br>
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferxas&layout=compact&theme=dark "Languages")
 
+<b>✨🌟 And if you want to help me 🌟✨</b> <br> <br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B1DX0FZ)
 
