@@ -43,13 +43,14 @@ discord dm (Check out my Discord: Ferxas#3861) or    [![my links](https://img.sh
 
 <br>
 <br>
+<b>📊 STATS</b>
 
 ![ferxas-stats](https://github-readme-stats.vercel.app/api?username=ferxas&show_icons=true&theme=dark "Stats")
 
 ♨ StackOverflow <br> <br>
 [![stack-overflow-acc](https://stackoverflow.com/users/flair/18688781.png?theme=dark)](https://stackoverflow.com/users/18688781/ferxas) &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=ferxas&label=Views" alt="Visitors">
 
-<b>💹 Most used</b> <br> <br>
+<b>📈 Most used</b> <br> <br>
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferxas&layout=compact&theme=dark "Languages")
 
 <b>✨🌟 And if you want to help me 🌟✨</b> <br> <br>
