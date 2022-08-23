@@ -43,7 +43,7 @@ discord dm (Check out my Discord: Ferxas#3861) or    [![my links](https://img.sh
 
 <br>
 <br>
-<b>📊 STATS</b>
+<b>📊 STATS</b> <br> <br>
 
 ![ferxas-stats](https://github-readme-stats.vercel.app/api?username=ferxas&show_icons=true&theme=dark "Stats")
 
