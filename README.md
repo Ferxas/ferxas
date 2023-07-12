@@ -11,7 +11,7 @@ I'm Ferxas here i will keep sharing some of my projects, works, collaborations a
 📖 I'm reading and practicing about cibersecurity and computer hardware systems to open source systems projects [🔑 => 📁].
 
 📫 You can reach me on:
-discord dm (Check out my Discord: Ferxas#3861) or    [![my links](https://img.shields.io/website?label=my%20links:%20allmylinks.com/ferxas&style=for-the-badge&url=https://nekesweb.cf)](https://allmylinks.com/ferxas)
+discord dm (Check out my Discord: Ferxas#3861)
 
 🖌 I'm also an illustrator and sometimes animator.
 
@@ -47,8 +47,6 @@ discord dm (Check out my Discord: Ferxas#3861) or    [![my links](https://img.sh
 
 ![ferxas-stats](https://github-readme-stats.vercel.app/api?username=ferxas&show_icons=true&theme=dark "Stats")
 
-♨ StackOverflow <br> <br>
-[![stack-overflow-acc](https://stackoverflow.com/users/flair/18688781.png?theme=dark)](https://stackoverflow.com/users/18688781/ferxas) &nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=ferxas&label=Views" alt="Visitors">
 
 <b>📈 Most used</b> <br> <br>
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ferxas&layout=compact&theme=dark "Languages")
