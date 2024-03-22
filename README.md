@@ -45,7 +45,7 @@ ferxas321@hotmail.es
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="Bash" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"></a>
 
 
-### 🧰 Frameworks and Libraries
+### 📚 Frameworks and Libraries
 
 <p>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
@@ -89,7 +89,7 @@ ferxas321@hotmail.es
     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 </p>
 
-### 💻 Software and Tools
+### 💻🛠️ Software and Tools
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
