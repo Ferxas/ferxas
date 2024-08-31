@@ -13,7 +13,7 @@ Hewwo, i'm Ferxas!
 <hr>
 
 ```
-ferxas321@hotmail.es
+ferxas321@protonmail.com
 -------------------------
 💻 I am a self taught Full Stack Developer
 📝 I have certified experience with several national and multinational companies
