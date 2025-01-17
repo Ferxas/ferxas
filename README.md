@@ -9,7 +9,7 @@ Hewwo, i'm Ferxas!
   <a href="https://github.com/Ferxas/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Game+Dev+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://cdn.fullyst.com/stickers/3329821b-8129-5013-a165-f287cbf91c15/thumb/AQADBwAD3IYvO3I.webp" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" style="margin-top: 30px; margin-right: 15px;" />
+<img align="left" src="https://media.tenor.com/nsPBw7uTuIcAAAAj/lain.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" style="margin-top: 30px; margin-right: 15px;" />
 
 <hr>
 
