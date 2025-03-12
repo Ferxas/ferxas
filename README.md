@@ -16,15 +16,21 @@ Hewwo, i'm Ferxas!
 ```
 ferxas321@protonmail.com
 -------------------------
-💻 I am a self taught Full Stack Developer
-📝 I have certified experience with several national and multinational companies
-📚 I have a strong interest in Data Science, Artificial Intelligence
-🔭 Working on development
-🌱 Learning about Computer Vision, hardware and AI
-🌟 Main languages: Python, JavaScript, Go
-🚩 Interested in Full Stack Application Development
-💖 In a complicated relationship with Neural Networks
-🎵 Love rock, lofi, jazz, jpop and kpop
+Hey there! I'm a self-taught Full Stack Developer who fell into the rabbit hole of coding and never climbed back out.
+
+🔥 What I Do
+🚀 Code Alchemist – Turning caffeine into Full Stack magic
+💡 AI Enthusiast – Constantly trying to make machines smarter (or at least less dumb)
+🛠️ Tinkerer – Exploring Computer Vision, hardware, and AI like a mad scientist
+
+🧰 Tech Arsenal
+💾 Languages: Python, JavaScript, Go (because why limit myself?)
+🖥️ Current Mission: Building awesome apps and breaking things to learn faster
+📌 Experience: Worked with national and multinational companies—so yeah, I’ve been around
+
+🎶 Bonus Features
+💖 In a complicated relationship with Neural Networks (they ghost me sometimes)
+🎧 Music keeps me sane—Rock, Lofi, Jazz, Jpop, Kpop (yes, my playlist is chaos)
 ```
 <hr>
 
