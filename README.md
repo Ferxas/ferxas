@@ -15,22 +15,36 @@ Hewwo, i'm Ferxas!
 
 ```
 ferxas321@protonmail.com
--------------------------
-Hey there! I'm a self-taught Full Stack Developer who fell into the rabbit hole of coding and never climbed back out.
+=========================
 
-🔥 What I Do
-🚀 Code Alchemist – Turning caffeine into Full Stack magic
-💡 AI Enthusiast – Constantly trying to make machines smarter (or at least less dumb)
-🛠️ Tinkerer – Exploring Computer Vision, hardware, and AI like a mad scientist
+> I write code.  
+> I connect systems.  
+> I dissolve boundaries between hardware and thought.  
 
-🧰 Tech Arsenal
-💾 Languages: Python, JavaScript, Go (because why limit myself?)
-🖥️ Current Mission: Building awesome apps and breaking things to learn faster
-📌 Experience: Worked with national and multinational companies—so yeah, I’ve been around
+───────────────────────────────  
+[ What I Do ]  
+───────────────────────────────  
+• Code Alchemist – Full Stack structures  
+• AI Explorer – Machines that reflect fragments of human logic  
+• Tinkerer – Vision machines, networks that breathe  
 
-🎶 Bonus Features
-💖 In a complicated relationship with Neural Networks (they ghost me sometimes)
-🎧 Music keeps me sane—Rock, Lofi, Jazz, Jpop, Kpop (yes, my playlist is chaos)
+───────────────────────────────  
+[ Tech Arsenal ]  
+───────────────────────────────  
+• Languages: Python, JavaScript, Go  
+• Current Mission: Applications that change as you observe them  
+• Experience: From national frameworks to multinational systems  
+
+───────────────────────────────  
+[ Bonus Features ]  
+───────────────────────────────  
+• Neural networks: they reflect, but never fully  
+• Sound as signal: Rock, Lofi, Jazz, Jpop, Kpop  
+
+───────────────────────────────  
+Everything is connected.  
+The question is: *are you?*  
+───────────────────────────────
 ```
 <hr>
 
