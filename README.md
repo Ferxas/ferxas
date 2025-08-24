@@ -6,7 +6,48 @@ Hewwo, i'm Ferxas!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Ferxas/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Game+Dev+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<!-- =============================== -->
+<!-- 🚀 WIRED NODE :: SYSTEM BOOT-UP -->
+<!-- =============================== -->
+
+<!-- HEADER :: ASCII ART (cyan neon) -->
+<!-- HEADER :: ASCII (safe) -->
+<div align="center">
+  <a href="https://github.com/Ferxas/readme-typing-svg">
+    <img
+      alt="wired-header"
+      src="https://readme-typing-svg.herokuapp.com?multiline=true&repeat=false&font=JetBrains%20Mono&size=20&duration=2500&pause=1000&color=33CCFF&center=true&vCenter=true&width=1000&height=160&background=000000&lines=+++++--------------------------------------+;++++|++++WIRED+NODE++::++/dev/ai_core++++++|;+++++--------------------------------------+;++++[SYSTEM+BOOT]+INITIALIZING+...;++++========================================"
+    />
+  </a>
+</div>
+
+
+---
+
+<!-- TERMINAL :: Linux-only commands, oh-my-posh style prompt, fast typing -->
+<!-- TERMINAL :: Expanded multiline, single-run, black bg, fast typing, Linux-only, synthetic system data -->
+<a href="https://github.com/Ferxas/readme-typing-svg">
+  <img
+    alt="wired-terminal-oneblock"
+    src="https://readme-typing-svg.herokuapp.com?multiline=true&repeat=false&font=JetBrains%20Mono&size=16&duration=420&pause=300&color=00FF7F&center=false&vCenter=true&width=1100&height=800&background=000000&lines=+ferxas@wired-node++~+;+main+%7C+GNU/Linux;------------------------------------------------------------;$+neofetch;OS:+Debian+GNU/Linux+12+(bookworm);Kernel:+Linux+6.8+x86_64;Uptime:+23h+17m;Shell:+zsh+5.9;Packages:+1834+(apt);$+ip+-br+a;lo+127.0.0.1;eth0+10.0.0.23/24+UP;$+df+-hT+%7C+grep+%5E/dev;/dev/nvme0n1p2+ext4+110G+used+890G+free;$+free+-h;Mem:+64G+used+22G+free+42G;$+top+-b+-n1+%7C+head+-n+3;load+avg:+0.42,0.37,0.31;$+node+-v;v22.5.0;$+go+version;go1.22.5+linux%2Famd64;$+php+-v;PHP+8.3.8+(cli);$+java+-version;OpenJDK+21;$+lua+-v;Lua+5.4.6;$+python3+-V;Python+3.12.4;$+rustc+--version;rustc+1.79.0;$+ufw+status;Status:+active+(allow+22,443,80);$+echo+%22wired+link:+established%22;wired+link:+established"
+  />
+</a>
+
+
+---
+
+<!-- DIAGNOSTICS :: STATUS + ASCII BAR (amber warning) -->
+<div align="center">
+  <a href="https://github.com/Ferxas/readme-typing-svg">
+    <img
+      alt="wired-diagnostics"
+      src="https://readme-typing-svg.herokuapp.com?multiline=true&repeat=false&font=JetBrains%20Mono&size=18&duration=2400&pause=1000&color=FFC857&center=true&vCenter=true&width=1000&height=260&background=000000&lines=++++==================+HEALTH+CHECK+=================;++++[MOUNT]+/dev/ai_core+->+/opt/models+...+OK;++++[INIT]+ml-runtime+v1.8.3+...+READY;++++[LOAD]+nlp,cv,embeddings+...+DONE;++++[GPU]+accelerator:+AVAILABLE;++++[NET]+neural+handshake:+ESTABLISHED;++++-----------------------------------------------;++++::::+ASCII+SCAN+::::;++++############################################"
+    />
+  </a>
+</div>
+
+---
+
 </p>
 
 <img align="left" src="https://media.tenor.com/nsPBw7uTuIcAAAAj/lain.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" style="margin-top: 30px; margin-right: 15px;" />
@@ -29,7 +70,8 @@ ferxas321@protonmail.com
 • Tinkerer – Vision machines, networks that breathe  
 
 ───────────────────────────────  
-[ Tech Arsenal ]  
+[ Tech Arsenal ]
+───▐█▓▒░ SIG//NAL░▒▓█▌───
 ───────────────────────────────  
 • Languages: Python, JavaScript, Go  
 • Current Mission: Applications that change as you observe them  
@@ -43,8 +85,9 @@ ferxas321@protonmail.com
 
 ───────────────────────────────  
 Everything is connected.  
-The question is: *are you?*  
+The question is: *are you?*
 ───────────────────────────────
+≡≡≡[ 0xΣ://CONNECTION_LOST// ]≡≡≡
 ```
 <hr>
 
